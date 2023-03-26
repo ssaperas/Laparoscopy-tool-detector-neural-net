@@ -1,3 +1,8 @@
+# Detection of surgical instruments in laparoscopic videos using artificial neural networks with oriented bounding boxes
+
+### **Fakultät Informatik und Mathematik Ostbayerische Technische Hochschule Regensburg (OTH Regensburg)**
+### **Introduction**
+
 Artificial neural networks have unlocked countless applications in medical image computing. Thanks to artificial intelligence development over the past few years, it is
 possible for machines to visually detect in real time almost anything. This has proven
 very helpful for vision based minimally invasive surgery, like Laparoscopy.
@@ -16,10 +21,10 @@ However, further refinement is necessary for it to function optimally. Neverthel
 the model holds great potential in enhancing the performance of object detection in
 laparoscopic surgeries.
 
-
+Developed by Sergi Saperas López in REMIC Lab
 
 NOTES:
-In this folder you can find diferent versions of the model used during the thesis ( some changes must be made according if you want to use rotated bbox or not ).
+In this folder you can find diferent versions of the model used during the thesis plus the THESIS.pdf file ( some changes must be made according if you want to use rotated bbox or not ).
 
 The given json files are the ones to be used for the rotated bounding box approach where rotation angle is given, and rotated bbox coordinates are used.
 
